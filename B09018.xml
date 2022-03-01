@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for indempnifying of such persons as have acted for the service of the publique At the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+            <author>England and Wales. Laws, statutes, etc.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09018</idno>
+            <idno type="STC">Wing E1042A</idno>
+            <idno type="STC">ESTC R175017</idno>
+            <idno type="EEBO-CITATION">61296981</idno>
+            <idno type="OCLC">ocm 61296981</idno>
+            <idno type="VID">180542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180542)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2833:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for indempnifying of such persons as have acted for the service of the publique At the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+                  <author>England and Wales. Laws, statutes, etc.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted by C. Higgins,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text in black letter.</note>
+                  <note>Title vignette: Commonwealth arms.</note>
+                  <note>Reproduction of original in: University of Birmingham. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pardon --  England --  Sources.</term>
+               <term>Idemnity --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180542:1"/>
+            <pb facs="tcp:180542:1" rendition="simple:additions"/>
+            <p>AN ACT FOR INDEMPNIFYING OF Such PERSONS as have Acted FOR THE Service of the Publick.</p>
+            <p>At the Parliament begun at <hi>Weſtminſter,</hi> the 17<hi rend="sup">th</hi> day of <hi>September, An. Dom.</hi> 1656.</p>
+            <figure>
+               <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+            </figure>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed by <hi>Chriſtopher Higgins,</hi> in Harts Cloſe, over againſt the Trone Church, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180542:2"/>
+            <pb n="1" facs="tcp:180542:2"/>
+            <head>AN ACT FOR INDEMPNIFYING OF Such Perſons as have Acted for the Service of the PUBLICK.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Parliament, his High<g ref="char:EOLhyphen"/>neſs the Lord Protector and the Council, by reaſon of ſome late Rebellions and Inſurrections within this Common-wealth, and upon occaſion of many dangers and trou<g ref="char:EOLhyphen"/>bles threatned from beyond the Seas, have been neceſſitated to imploy divers Perſons in their Service for ſuppreſſing the ſaid rebellious Inſurrections, and for ſecuring the Peace, and carrying on the Publick Service of theſe Nations, which the ſaid Perſons have wil<g ref="char:EOLhyphen"/>lingly engaged in; whereof his Highneſſe and Parliament well approving, and being fully ſatisfied of their Fidelity and Integrity in ſuch their Actings, and that their Endeavors tended only to the Security and Advantage of the Publick, and Reformation of theſe Na<g ref="char:EOLhyphen"/>tions, without any ſiniſter reſpects of their own; and therefore conceive themſelves to be obliged in Honor and Iuſtice, that they be pro<g ref="char:EOLhyphen"/>tected and acquitted from any Suit, Action, Proſecution or Moleſtation, for or in reſpect of ſuch Service.</p>
+            <p>Be it therefore Enacted by his Highneſſe
+<pb n="2" facs="tcp:180542:3"/> the Lord Protector and this preſent Parlia<g ref="char:EOLhyphen"/>ment, and the Authority thereof, That all and every perſon and perſons, who have be<g ref="char:EOLhyphen"/>fore the twentieth day of <hi>June,</hi> One thouſand ſix hundred fifty and ſeven, mediately or im<g ref="char:EOLhyphen"/>mediately, acted or done, or commanded or appointed to be acted or done, or by command or appointment have acted or done any matter or thing whatſoever by Vertue or Authority of Parliament, his Highneſſe the Lord Pro<g ref="char:EOLhyphen"/>tector or the Councill, by any Commiſſion or Inſtructions from them, or any of them, That every ſuch perſon and perſons ſhall be, and are hereby fully Acquitted, Pardoned, and Diſcharged of and from all Actions, Suits, Indictments, Informations, Pro<g ref="char:EOLhyphen"/>ſecutions, Iudgements, Executions, and Moleſtations whatſoever, for or concerning the ſame; but that ſuch their Actings and Service, and whatſoever hath enſued there<g ref="char:EOLhyphen"/>upon, ſhall in no time hereafter be called in queſtion, whatſoever be the Quality of the perſon, or of whatſoever kind or degree, Civil or Criminal, the Offence or Injury is ſup<g ref="char:EOLhyphen"/>poſed to be; And that no mention be made thereof in time to come, in Iudgment or Iu<g ref="char:EOLhyphen"/>dicial Proceedings, but that the ſame be had and put in perpetual Oblivion; And that the ſaid Council for all Acts done, or adviſed to be done by them as aforeſaid, ſhall be and are hereby likewiſe Acquitted, Pardoned, and Diſcharged, to all intents and purpoſes aforeſaid.</p>
+            <p>And it is further Enacted by the Authority aforeſaid, That <hi>Richard Hill</hi> Eſq; <hi>Samuel Wil<g ref="char:EOLhyphen"/>ſon, John Sparrow, Humphrey Blake, Robert Turpin,</hi>
+               <pb n="3" facs="tcp:180542:3"/> and <hi>Richard Blackwal,</hi> the late Commiſſioners for Prize-Goods, and <hi>John Carleton</hi> Treaſu<g ref="char:EOLhyphen"/>rer, and every of them ſhall be, and are hereby Indempnified and Diſcharged, for and con<g ref="char:EOLhyphen"/>cerning the Payment of all ſuch Sum and Sums of Money, which by Order of his Highneſſe and Council, they, or any of them have paid in to the uſe of the Commonwealth; And that the ſaid late Commiſſioners for Prize-Goods, and the ſaid Treaſurer, ſhall not be lyable to any Suit or Action for the Pay<g ref="char:EOLhyphen"/>ment of the ſaid Sums of Money, or any part thereof.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That all Acts, Ordinances and Orders of Parliament, which have heretofore been made for the Encouragement, Indemp<g ref="char:EOLhyphen"/>nity, and ſaving harmleſs of ſuch perſons as have in any ſort, either by Sea or Land, En<g ref="char:EOLhyphen"/>gaged, Acted, or done any matter or thing whatſoever, by Authority, or for the ſervice or benefit of the Parliament; and every Clauſe, Article and Sentence in them, or any of them contained, ſhall ſtand and remain, and be in full force, effect and vertue, and be put in pra<g ref="char:EOLhyphen"/>ctice and execution, and be pleadable and made uſe of in all Courts of Iuſtice, as fully and abſolutely to all intents and purpoſes, as if the ſame had been now made particularly for ſuch purpoſe.</p>
+            <p>And be it Ordained and Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That all and every the Words, Clauſes and Sentences in this Act, and in all and every other the Acts, Ordi<g ref="char:EOLhyphen"/>nances and Orders of Parliament, ſhall be adjudged, expounded, and taken in all Courts
+<pb n="4" facs="tcp:180542:4"/> and proceedings of Iuſtice, and elſe-where, moſt beneficial and available unto all and ſin<g ref="char:EOLhyphen"/>gular the perſons that have ſo acted or done by any Authority as aforeſaid, or for the ſer<g ref="char:EOLhyphen"/>vice or benefit of the Parliament, or other<g ref="char:EOLhyphen"/>wiſe as aforeſaid. And for further relief and eaſe of the perſons aforeſaid, It is likewiſe Enacted; That if upon any Tryal or Pro<g ref="char:EOLhyphen"/>ceedings in any Court of Iuſtice, it ſhall ap<g ref="char:EOLhyphen"/>pear unto the Iudge or Iudges before whom ſuch tryal or proceedings ſhall be had or made, that the party that hath ſo acted by the Au<g ref="char:EOLhyphen"/>thority as aforeſaid, or for the ſervice or bene<g ref="char:EOLhyphen"/>fit of the Parliament, or otherwiſe as afore<g ref="char:EOLhyphen"/>ſaid, hath not had or cannot have ſuch full be<g ref="char:EOLhyphen"/>nefit and juſt relief, as by this and other Acts, Ordinances, and Orders of Parliament, was intended or provided, Then ſuch Iudge and Iudges ſhall, and are hereby required to make Certificate thereof to the Barons of the Exchequer; upon which Certificate the ſaid Barons, or any two of them ſhall have Au<g ref="char:EOLhyphen"/>thority, and are hereby impowered, authorized and required, upon ſuch Certificate and Com<g ref="char:EOLhyphen"/>plaint of the party grieved, to proceed and do therein to all intents and purpoſes; And they have hereby given unto them the ſame and like Powers, Authorities, Iuriſdictions, and Courſe of Proceedings in all Cauſes for relief of ſuch party or parties grieved, in any the pre<g ref="char:EOLhyphen"/>miſes, as any Committee or Commiſſioners of or for Indempnity appointed by Authority of Parliament, had or might have lawfully exerciſed.</p>
+            <p>And it is hereby laſtly Ordained, That all and every the matters and things in this Act
+<pb n="5" facs="tcp:180542:4"/> mentioned and intended ſhall be adjudged and deemed to be within all and every the ſaid Acts, Ordinances, and Orders of Parlia<g ref="char:EOLhyphen"/>ment, as if the ſame had been particularly ex<g ref="char:EOLhyphen"/>preſſed and compriſed in the ſame, and to have relief, and be proceeded in accordingly.</p>
+            <p>Provided, That nothing in this Act be conſtrued or underſtood to revive the Power of the ſaid Committees in any of the former Acts or Ordinances of Parliament named, ſo as to enable the ſaid Committees to inter<g ref="char:EOLhyphen"/>meddle in the execution of any of the ſaid Acts or Ordinances.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed by <hi>Chriſtopher Higgins,</hi> in <hi>Harts</hi> Cloſe, over againſt the Trone Church. <hi>Anno Dom.</hi> 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
